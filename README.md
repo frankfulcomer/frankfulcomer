@@ -12,9 +12,10 @@ I'm currently expanding my hands-on test automation experience through portfolio
 
 - **[AI Conductor Workflow](https://github.com/frankfulcomer/ai-conductor-workflow)** — Human-directed multi-agent development workflow with delegated implementation, independent verification, and controlled Git publication.
 - **[Job Search Hub Tests](https://github.com/frankfulcomer/job-search-hub-tests)** — Selenium and pytest automation verifying application workflows, validation, and status history, with isolated test databases and read-only SQL persistence checks.
-- **[QA Automation Framework](https://github.com/frankfulcomer/qa-automation-framework)** — Python, Playwright, and pytest automation portfolio project.
-- **[Workflow Tracker](https://github.com/frankfulcomer/workflow-tracker)** — Small Java web application built as a realistic target for software testing and automation.
+- **[Job Search Hub](https://github.com/frankfulcomer/job-search-hub)** — Python, Flask, and SQLite job-application tracker serving as a practical platform for QA, SQL, and browser automation.
 - **[Workflow Tracker Tests](https://github.com/frankfulcomer/workflow-tracker-tests)** — Independent black-box Playwright/JUnit automation suite for Workflow Tracker.
+- **[Workflow Tracker](https://github.com/frankfulcomer/workflow-tracker)** — Small Java web application built as a realistic target for software testing and automation.
+- **[QA Automation Framework](https://github.com/frankfulcomer/qa-automation-framework)** — Python, Playwright, and pytest automation portfolio project.
 - **[Job Hunter](https://github.com/frankfulcomer/job-hunter)** — Self-hosted job discovery pipeline running on Linux with Docker.
 - **[System Guard](https://github.com/frankfulcomer/system-guard)** — Lightweight Linux battery monitoring and protection service.
 
